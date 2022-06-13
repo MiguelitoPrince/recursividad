@@ -10,7 +10,7 @@ public class ejercicios {
             factorial = n * factorial(n - 1);
         }
 
-         return factorial;
+        return factorial;
 
     }
 }

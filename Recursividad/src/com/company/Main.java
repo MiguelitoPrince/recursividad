@@ -4,6 +4,13 @@ public class Main {
 
     public static void main(String[] args) {
         // write your code here
-        System.out.println(ejercicios.factorial(5));
+
+        // write your code her
+
+
+       // System.out.println(ejercicios.factorial(5));
+
+
+        System.out.println(ejercicio2.mcd(190,200));
     }
 }
